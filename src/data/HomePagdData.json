@@ -1,0 +1,268 @@
+
+
+{
+  "hero": {
+    "imgUrl": "Image",
+    "name": "Ragul M",
+    "heading": "Hey! I’m Ragul ",
+    "typingText": ["I'm a Developer", 1500, "I'm a UI UX Designer ", 1500],
+    "description": "As a developer and UI/UX designer, I am dedicated to leveraging design to address business challenges effectively. With a background in crafting seamless interactive user flows and conducting UX research, I prioritize developing user-friendly digital experiences that are both visually captivating and leave a lasting positive impact.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+   
+    { "icon": "fa-brands:instagram", "iconBgClass": "instagram", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR  <span>WEBSITE</span> and <span>UI UX DESIGN</span> PROJECTS",
+    "funfacts": [
+      {
+        "title": "Projects",
+        "number": 25
+      },
+      {
+        "title": "Years Experience",
+        "number": 1
+      },
+      {
+        "title": "Clients",
+        "number": 2
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/Projects-1.png",
+        "title": "Website Design",
+        "subTitle": "Motorcycle",
+        "details": {
+          "title": "Shree Dhanam Motors",
+          "description": "This project aims to enhance the existing Jawa Motorcycle website, specifically catering to direct dealers of Jawa bikes, with a focus on Shreedhanam Motor showroom. The website, built using React.js, serves as a platform for Shreedhanam Motor to efficiently manage their inventory, communicate with potential buyers, and showcase the latest offerings from Jawa.",
+          "type": "Website",
+          "langages": "React Js",
+          "country": "Coimbatore,Tamilnadu",
+          "url": "https://sdmbikes-final.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Ux-1.png",
+        "title": "Ui Ux Design",
+        "subTitle": "Data Security Serviece",
+        "details": {
+          "title": "Sark Serviecs",
+          "description": "The SecureData UX/UI Design project aims to create a user-centric interface for a data security application, prioritizing intuitive design principles while ensuring robust protection of sensitive information. The application serves as a comprehensive platform for managing and safeguarding data, offering a seamless user experience combined with advanced security features.",
+          "type": "Website",
+          "langages": "Figma",
+          "country": "India",
+          "url": "https://www.figma.com/file/Ejae4xNuD1QABUbMOjB57T/Landing---Security-SaaS?type=design&node-id=1%3A69&mode=design&t=J2wG7QEULnHuQxW2-1"
+        }
+      },
+      {
+        "thumbUrl": "/images/Projects-2.png",
+        "title": "Website Design",
+        "subTitle": "Weather App",
+        "details": {
+          "title": "Weather App",
+          "description": "The Weather Forecast is a sleek and intuitive web application designed to provide users with accurate weather predictions for any location across the globe. Developed using React.js and integrated with a weather API, this project delivers a seamless user experience coupled with real-time weather updates.",
+          "type": "Website",
+          "langages": "React js, Api Intergration",
+          "country": "India",
+          "url": "https://weather-forecasting-world.netlify.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Ux-2.png",
+        "title": "Ui Ux Design",
+        "subTitle": "Soudemy ",
+        "details": {
+          "title": "Soudemy  ",
+          "description": "Soudemy is a comprehensive UI/UX design project aimed at creating a user-friendly and visually appealing platform for finance services. This project focuses on delivering an intuitive interface that simplifies financial management, investment tracking, and banking transactions for users across different demographics.",
+          "type": "Website",
+          "langages": "Figma",
+          "country": "India",
+          "url": "https://www.figma.com/file/AY0eR1Kj2rTAlkxqblNUvm/Fintech-Landingpage?type=design&node-id=0%3A1&mode=design&t=albqp2iinARZfMy8-1"
+        }
+      },
+      {
+        "thumbUrl": "/images/Projects-4.png",
+        "title": "Website Design",
+        "subTitle": "Door Manufacturer",
+        "details": {
+          "title": "Website Design",
+          "description": "The Project is Door Manufacturing Company Website is a comprehensive online platform designed to showcase the products and services offered by a door manufacturing company. This website serves as a digital storefront, providing potential customers with detailed information about the company's door products, customization options, and manufacturing processes.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "country": "Coimbatore,Tamilnadu",
+          "url": "https://icloudcs.in/STED/dynamic/"
+        }
+      },
+      {
+        "thumbUrl": "/images/Ux-3.png",
+        "title": "Ui Ux Design",
+        "subTitle": "Threads - clone",
+        "details": {
+          "title": "Threads - clone",
+          "description": "The Threads Clone UI Design project aims to replicate the sleek and intuitive interface of the popular messaging app, Threads, using Figma. This project focuses on recreating the core elements and functionalities of Threads while adding a touch of creativity and customization through prototyping features.",
+          "type": "Website",
+          "langages": "Figma",
+          "country": "USAThe Threads Clone UI Design project aims to replicate the sleek and intuitive interface of the popular messaging app, Threads, using Figma. This project focuses on recreating the core elements and functionalities of Threads while adding a touch of creativity and customization through prototyping features.",
+          "url": "https://www.figma.com/file/UZN1O65VaHJIDBgwGgeQ8p/Theards-ui?type=design&node-id=1%3A2&mode=design&t=bgs2DkL2FzDek0Fn-1"
+        }
+      },
+      {
+        "thumbUrl": "/images/Projects-3.png",
+        "title": "Website Design",
+        "subTitle": "Travel Booking App",
+        "details": {
+          "title": "Travel Booking App",
+          "description": "The Project Travel Booking App is a comprehensive mobile application designed to simplify the process of planning, booking, and managing travel experiences. Tailored for modern travelers, this app offers a user-friendly interface, personalized recommendations, and seamless booking options for flights, accommodations, activities, and more.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS",
+          "country": "India",
+          "url": "https://touristertour.netlify.app/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/services-1.png",
+        "title": "Website Design",
+        "subTitle": "Crafting visually captivating and user-friendly websites tailored to meet your unique business needs.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/services-2.png",
+        "title": "Ui Ux Design",
+        "subTitle": "Creating intuitive and visually engaging interfaces to enhance user experiences and drive engagement.",
+        "icon": "bi:brush-fill",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/services-3.png",
+        "title": "SEO Marketing",
+        "subTitle": "Boosting online visibility and driving organic traffic through strategic SEO tactics tailored to your business goals.",
+        "icon": "bi:speedometer2",
+        "ratings": 4
+      }
+     
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "REMOTE",
+        "duration": "JUNE 2023 - DEC",
+        "jobType": "Intern",
+        "companyTitle": "Segolsys, Coimbatore",
+        "companyDescription": "Develop a responsive and interactive e-commerce website interface from scratch using HTML, CSS, JavaScript and React js incorporating modern frameworks and technologies, while collaborating with our experienced team for mentorship and guidance throughout my 6-month internship."
+      },
+      {
+        "designation": "Full - Stack Developer",
+        "company": "ON-SITE",
+        "duration": "JAN 2024 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Clouddreams - Website Development, Coimbatore",
+        "companyDescription": "Seasoned Full-Stack Developer with expertise in crafting captivating user interfaces using HTML, CSS, JavaScript and React js coupled with strong back-end skills in Node.js and databases like Mongo DB. Proven track record of delivering high-quality solutions and collaborating effectively in dynamic team environments."
+      }
+     
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "E-mail", "email": "ragulragul9862@gmail.com" },
+      { "title": "Phone No", "tel": "+91 9894094279" }
+    ]
+  }
+}

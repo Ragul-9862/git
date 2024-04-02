@@ -24,7 +24,7 @@ export default function Skills() {
           <div className="skill-item wow fadeInUp" data-wow-delay=".4s">
             <div className="skill-inner">
               <div className="icon-box">
-              <img src={require("../Images/icons/laravel.png")} alt />
+              <img src={require("../Images/icons/laravel.png")} alt="" />
               </div>
               <div className="number">80%</div>
             </div>
@@ -33,7 +33,7 @@ export default function Skills() {
           <div className="skill-item wow fadeInUp" data-wow-delay=".5s">
             <div className="skill-inner">
               <div className="icon-box">
-              <img src={require("../Images/icons/react.png")} alt />
+              <img src={require("../Images/icons/react.png")} alt="" />
               </div>
               <div className="number">85%</div>
             </div>
@@ -42,7 +42,7 @@ export default function Skills() {
           <div className="skill-item wow fadeInUp" data-wow-delay=".6s">
             <div className="skill-inner">
               <div className="icon-box">
-              <img src={require("../Images/icons/nodejs.png")} alt />
+              <img src={require("../Images/icons/nodejs.png")} alt="" />
               </div>
               <div className="number">99%</div>
             </div>
@@ -51,7 +51,7 @@ export default function Skills() {
           <div className="skill-item wow fadeInUp" data-wow-delay=".7s">
             <div className="skill-inner">
               <div className="icon-box">
-              <img src={require("../Images/icons/mongodb.png")} alt />
+              <img src={require("../Images/icons/mongodb.png")} alt="" />
               </div>
               <div className="number">89%</div>
             </div>
@@ -60,7 +60,7 @@ export default function Skills() {
           <div className="skill-item wow fadeInUp" data-wow-delay=".8s">
             <div className="skill-inner">
               <div className="icon-box">
-              <img src={require("../Images/icons/figma.png")} alt />
+              <img src={require("../Images/icons/figma.png")} alt="" />
               </div>
               <div className="number">93%</div>
             </div>

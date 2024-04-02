@@ -1,11 +1,10 @@
-import { Icon } from '@iconify/react';
+
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
-import { Link as ScrollLink } from 'react-scroll';
 import SocialBtns from './SocialBtns';
 
 export default function Hero({ data, socialData }) {
-  const { imgUrl, name, heading, typingText, description, btnText, btnUrl } =
+  const { name, heading, typingText, description, } =
     data;
   return (
     <section className="home-section" id="home" data-scroll-index={0}>
@@ -49,19 +48,7 @@ export default function Hero({ data, socialData }) {
                 data-aos-duration="1200"
                 data-aos-delay="400"
               >
-                <ScrollLink
-                  to={btnUrl}
-                  spy={true}
-                  smooth={true}
-                  offset={-80}
-                  duration={500}
-                  className="px-btn text-center"
-                >
-                  <span>{btnText}</span>{' '}
-                  <i className="d-flex">
-                    <Icon icon="bi:arrow-right" />
-                  </i>
-                </ScrollLink>
+               
                 <SocialBtns
                   socialBtns={socialData}
                   variant="ps-sm-4 pt-4 pt-sm-0 d-flex justify-content-center justify-content-sm-start"
@@ -69,11 +56,7 @@ export default function Hero({ data, socialData }) {
               </div>
             </div>
           </div>
-          {/* <div className="col-lg-6">
-            <div className="hs-banner">
-              <img src={require("../Images/programmer.gif")} title alt="Admin" />
-            </div>
-          </div> */}
+        
         </div>
       </div>
     </section>

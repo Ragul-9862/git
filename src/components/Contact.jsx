@@ -4,7 +4,7 @@ import ContactInfo from './ContactInfo';
 import ContactForm from './ContactForm';
 
 export default function Contact({ data, socialData }) {
-  const { sectionHeading, contactImg, contactInfo } = data;
+  const { sectionHeading, contactInfo } = data;
   return (
     <section id="contactus" className="section contactus-section">
       <div className="container">
@@ -30,9 +30,7 @@ export default function Contact({ data, socialData }) {
               </div>
             </div>
             <div className="col-lg-4 pe-md-5">
-              {/* <div className="contact-banner d-none d-lg-block">
-                <img src={contactImg} title alt="Avatar" />
-              </div> */}
+           
               <ContactInfo contactInfoData={contactInfo} />
               <SocialBtns socialBtns={socialData} />
             </div>

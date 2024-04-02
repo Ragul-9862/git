@@ -5,7 +5,7 @@ import { Link as ScrollLink } from 'react-scroll';
 
 
 export default function About({ data }) {
-  const { imgSrc, miniTitle, title, description, funfacts, btnText, btnUrl } =
+  const { miniTitle, title, description, funfacts, btnText, btnUrl } =
     data;
   return (
     <section className="about-section section" id="about">
